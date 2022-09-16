@@ -1,7 +1,7 @@
 id,idade,cidade,renda,Nota
-1,15,DC,C,9
+1,15,dc,C,9
 2,38,DC,C,10
-3,49,DC,C,10
+3,49,dc,C,10
 4,71,DC,D,9
 5,58,DC,D,10
 6,26,DC,B,10
@@ -23,8 +23,8 @@ id,idade,cidade,renda,Nota
 22,35,DC,D,8
 23,37,DC,C,9
 24,48,DC,C,9
-25,,DC,D,10
-26,,DC,C,9
+25,,DC,D,7
+26,,dc,C,9
 27,20,DC,C,9
 28,,DC,B,9
 29,,DC,C,9
@@ -32,7 +32,7 @@ id,idade,cidade,renda,Nota
 31,,DC,B,8
 32,87,DC,C,9
 33,,DC,A,9
-34,,DC,C,8
+34,,DC,C,5
 35,26,DC,C,9
 36,,DC,C,8
 37,,DC,D,9
